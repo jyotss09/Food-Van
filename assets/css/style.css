@@ -160,5 +160,10 @@
     border-radius: 10px !important;
     overflow: hidden !important;    
 }
+.carousel-text{
+    color: black;
+    font-weight: 500;
+    
+}
 
 
